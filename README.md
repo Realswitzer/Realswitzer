@@ -1,6 +1,7 @@
-Hi, I’m @Realswitzer
-Learner of nothing
-Angry because to login you cant hide all referrers
+- Hi, I’m @Realswitzer
+- Learner of nothing
+- Angry because to login you cant hide all referrers
+- Does nothing
 
 <!---
 Realswitzer/Realswitzer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
