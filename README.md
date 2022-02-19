@@ -1,10 +1,8 @@
 - Hi, I’m @Realswitzer
 - literally 1984
 - taken or something idk
+- Banned from Discord previously (x1 :trollface:)
+- <del>i use arch btw</del>
+- proprietary fruitOS user
 
-- Banned from Discord until 19/02/2022 07:51 :trollface:
-<img src="./Screen Shot 2022-02-16 at 2.39.12 PM.png"></img>
-<img src="./Screen Shot 2022-02-16 at 2.19.22 PM.png"></img>
-  - Appeal denied L
-  <img src="./Screen Shot 2022-02-17 at 6.10.53 AM.png"></img>
-  - 3 day too little for them to check appeal I guess.
+<h6>i dont know how to make a good readme, how could you tell?</h1>
