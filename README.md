@@ -1,6 +1,6 @@
 - Hi, I’m @Realswitzer
 - literally 1984
-- taken or something idk
+- a
 - Banned from Discord previously (x1 :trollface:)
 - <del>i use arch btw</del>
 - proprietary fruitOS user
