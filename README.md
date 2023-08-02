@@ -1,5 +1,6 @@
-- Hi, I’m @Realswitzer
-- i do things
-- Banned from Discord previously (x1 :trollface:)
-<h4>about me page (until deployment gets fucked): https://realswitzer.github.io/about
-<h6>i dont know how to make a good readme, how could you tell?</h1>
+- Hi, I’m Switz. Welcome to this page.
+- I occasionally do things on GitHub.
+- Banned from Discord previously.
+- [about me/contacts page](https://realswitzer.github.io/about)
+[!counter](https://count.getloli.com/get/@Realswitzer?theme=moebooru)
+<!-- should i mention how im trying to distance myself from my past? probably not. anyways while youre reading this, shoutout to inertia. -->
